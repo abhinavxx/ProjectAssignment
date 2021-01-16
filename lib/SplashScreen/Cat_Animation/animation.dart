@@ -67,7 +67,7 @@ class LoginAnimationState extends State<LoginAnimation>
       width: 160.0,
       child: Center(
         child: Text(
-          "CREDFLOW",
+          "HELLEW!",
           style: TextStyle(
               color: Colors.blue,
               fontWeight: FontWeight.bold,
